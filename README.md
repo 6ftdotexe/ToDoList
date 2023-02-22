@@ -14,7 +14,7 @@ A Description field that is Type = VARCHAR and  limited to 50 characters max.
 
 
 Click “New” at the top of the left side menu tree in myPhpAdmin to get to this tab:
-
+![picture 1](/01.PNG?raw=true "")
 
 
 
