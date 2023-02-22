@@ -29,7 +29,7 @@ Note: I need your database settings to match mine above. If I load your applicat
  
 
 You must create ALL files for this assignment including the database.php file utilizing a PDO connection to your "todolist" database.
-![mobile view](/mobile.PNG?raw=true "")
+![mobile view](/phone.PNG?raw=true "")
 Use your previous exercises as a guide. We have covered all of the necessary skills to complete this project.
 
 Your project does not need to look like mine. I am providing screenshots as an example. My list container scrolls when the list outgrows the available space. Each red X is a remove button. I put my add item form on the index page, but you can create a separate page for this if you wish. 
