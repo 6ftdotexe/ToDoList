@@ -20,7 +20,7 @@ Click “New” at the top of the left side menu tree in myPhpAdmin to get to th
 
 
 After creating your "todolist" database above, you will be asked to create a table. When you have finished creating the "todoitems" table, you should be able to view the Structure tab to verify your table has the following attributes:
-
+![picture 2](/02.PNG?raw=true "")
 
 
 
@@ -29,7 +29,7 @@ Note: I need your database settings to match mine above. If I load your applicat
  
 
 You must create ALL files for this assignment including the database.php file utilizing a PDO connection to your "todolist" database.
-
+![mobile view](/mobile.PNG?raw=true "")
 Use your previous exercises as a guide. We have covered all of the necessary skills to complete this project.
 
 Your project does not need to look like mine. I am providing screenshots as an example. My list container scrolls when the list outgrows the available space. Each red X is a remove button. I put my add item form on the index page, but you can create a separate page for this if you wish. 
@@ -38,4 +38,4 @@ Your project does not need to look like mine. I am providing screenshots as an e
 
 
 Desktop View:
-
+![desktop view](/desktop.PNG?raw=true "")
